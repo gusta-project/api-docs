@@ -1,0 +1,22 @@
+{
+  "name": "api-docs",
+  "version": "0.1.0",
+  "description": "API documentation for the Gusta Project API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gusta-project/api-docs.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gusta-project/api-docs/issues"
+  },
+  "homepage": "https://github.com/gusta-project/api-docs#readme",
+  "devDependencies": {
+    "http-server": "^0.11.1"
+  }
+}
