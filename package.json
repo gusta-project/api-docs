@@ -4,7 +4,7 @@
   "description": "API documentation for the Gusta Project API",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "hs src/"
   },
   "repository": {
     "type": "git",
@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/gusta-project/api-docs#readme",
   "devDependencies": {
-    "http-server": "^0.11.1"
+    "http-server": "^0.9.0"
   }
 }
